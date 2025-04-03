@@ -1,12 +1,9 @@
-- 👋 Hi, I’m @ghazi1jdira
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 Hi, I’m Ghazi Jdira, Python/C++ developer at KPIT Technologies Co. Ltd.
+- 👀 I’m interested in software development engineering and Devops.
+- 📫 Contact me through mail : ghazi.jdira@ept.ucar.tn
 
-<!---
-ghazi1jdira/ghazi1jdira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ghazi1jdira&theme=github)
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ghazi1jdira&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ghazi1jdira&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ghazi1jdira&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ghazi1jdira&theme=github&utcOffset=8)
